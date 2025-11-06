@@ -10,7 +10,7 @@ Para esta parte del bootcamp puse a prueba todas las habilidades adquiridas dura
 El proyecto se centra en el análisis de ventas de una tienda de videojuegos online. Los datos permiten clasificar los juegos por plataforma, género y región. Además, se plantean y evalúan la hipótesis nula y alternativa para comparar las calificaciones promedio de los usuarios entre distintos géneros y plataformas.
 
 ## 📕 Descripción de datos
-La tabla **games** tiene los siguientes datos:
+La tabla **games** contiene los siguientes datos:
 
 - Name (Nombre)
 
