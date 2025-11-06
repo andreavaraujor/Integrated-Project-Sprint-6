@@ -15,7 +15,7 @@ El proyecto se centra en el análisis de ventas de una tienda de videojuegos onl
 
 — Platform (Plataforma)
 
-— Year_of_Release (Año de lanzamiento)
+- Year_of_Release (Año de lanzamiento)
 
 — Genre (Género) 
 
@@ -27,7 +27,7 @@ El proyecto se centra en el análisis de ventas de una tienda de videojuegos onl
 
 — Other_sales (ventas en otros países en millones de dólares estadounidenses) 
 
-— Critic_Score (máximo de 100) 
+- Critic_Score (máximo de 100) 
 
 — User_Score (máximo de 10) 
 
